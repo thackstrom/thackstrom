@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I am Torbjörn Hackström! 👋
 
-I was born today! 🎉
+I'm currently on vacation.
 
 <!--
 **thackstrom/thackstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
